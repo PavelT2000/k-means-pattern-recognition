@@ -33,9 +33,4 @@ source venv/bin/activate
 # Установка библиотек:
 pip install -r requirements.txt
 
-Запуск программы
-
-Когда окружение подготовлено и библиотеки установлены, запустите основной скрипт командой:
-
-```bash
 python main.py
