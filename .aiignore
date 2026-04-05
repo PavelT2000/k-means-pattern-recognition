@@ -1,0 +1,25 @@
+# Build directories
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+venv/
+.venv/
+env/
+.env/
+node_modules/
+
+# IDE/System files
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
